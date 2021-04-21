@@ -1,0 +1,15 @@
+# Informacion de proyecto
+site_name: 'Ranii Wiki'
+site_description: 'Plantilla para documentación'
+site_author: 'Raniita'
+site_url: 'https://wiki.ranii.pro'
+
+# Copyright
+copyright: 'Copyright &copy; 2021 Raniita'
+
+# Tema
+theme: material
+
+# Documentación
+nav:
+    - Home: index.md
